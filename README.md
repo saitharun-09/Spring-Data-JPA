@@ -34,4 +34,4 @@ This is a **Java project** built with **Spring Boot** and **Spring Data JPA** to
 
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/<your-username>/spring-data-jpa-relationships.git
+git clone https://github.com/saitharun-09/spring-data-jpa-relationships.git
